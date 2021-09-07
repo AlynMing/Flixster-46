@@ -27,3 +27,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 Describe any challenges encountered while building the app.
 - I ran into a few obstacles while getting things to run, but they were similar to many issues I faced with other programming tools such as applications or modules not installing properly. I had to go through some hurdles to use cocoapods correctly.
 - Coding in Swift with Xcode and MacOS is still new to me so there are some things I need to get used to like dealing with viewcontrollers and understanding how everything connects with each other. 
+
+Additional notes:
+The launch screen does show up but only for a very brief moment due to loading times.
