@@ -29,4 +29,4 @@ Describe any challenges encountered while building the app.
 - Coding in Swift with Xcode and MacOS is still new to me so there are some things I need to get used to like dealing with viewcontrollers and understanding how everything connects with each other. 
 
 Additional notes:
-- The launch screen does show up but only for a very brief moment due to loading times.
+- The launch screen does show up but only for a very brief moment since due it's loading very fast.
